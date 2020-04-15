@@ -1,2 +1,0 @@
-# BEBO
-KALI TOOLS
