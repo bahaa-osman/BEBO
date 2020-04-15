@@ -1,0 +1,24 @@
+python3
+armitage
+metasploitaple2     error
+hostilesubbrutforcer
+routersploit
+octopus             error
+nmap
+hexdecode
+
+ Parameter     Value                                
+   ---------     -----                                
+   SSID Name     Amin                                 
+   Password      \x26\x28L\x2bS\x5fN\x2bA\x29\x26 
+
+route -n
+
+admin:admin,ZXDSL:ZXDSL,user:user,on:on,root:Zte521,root:W!n0&oO7
+
+shutdown +20
+
+alt+f2  >>>  xterm
+ctrl + alt + f4
+
+history | grep "any command"
